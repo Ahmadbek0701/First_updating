@@ -1,0 +1,240 @@
+.bdy {
+    background-color: rgba(161, 164, 167, 0.336);
+}
+.container {
+    background-color: white;
+    width: 490px;
+    height: 1010px;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+.house {
+    border-radius: 15px;
+    width: 435px;
+    margin-left: 30px;
+    margin-top: 15px;
+    position: relative;
+    height: 340px;
+    position: relative;
+}
+.strlk {
+    width: 35px;
+    height: 35px;
+    margin-top: -323px;
+    position: absolute;
+    margin-left: 45px;
+    background-color: unset;
+    cursor: pointer;
+}
+.bokkmrk {
+    width: 25px;
+    height: 25px;
+    margin-top: -317px;
+    position: absolute;
+    margin-left: 415px;
+    background-color: unset;
+    cursor: pointer;
+}
+.hmdbks {
+    color: white;
+    margin-top: -130px;
+    position: absolute;
+    margin-left: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibr', 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.loc {
+    color: white;
+    font-size: 13px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    position: absolute;
+    margin-top: -95px;
+    margin-left: 40px;
+    font-weight: 1px;
+}
+.bed {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 50px;
+    font-weight: 100;
+}
+.bdd1 {
+    color: white;
+    margin-left: 84px;
+    margin-top: -53px;
+    position: absolute;
+    font-weight: 1px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+.bath {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 200px;
+    font-weight: 100;
+}
+.bth {
+    color: white;
+    margin-left: 240px;
+    margin-top: -53px;
+    position: absolute;
+    font-weight: 1px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+.dscrpt {
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: 100;
+    margin-left: 30px;
+}
+.the3 {
+    width: 435px;
+    margin-left: 30px;
+    font-family: roboto;
+    font-size: 17px;
+    height: 20px;
+    font-weight: 100;
+    display: inline-block;
+}
+.tall {
+    width: 260px;
+    margin-left: 30px;
+    font-family: roboto;
+    font-size: 17px;
+    height: 20px;
+    margin-top: -15px;
+    font-weight: 100;
+    display: inline-block;
+}
+.shw {
+    color: #0A8ED9;
+    font-family: roboto;
+    font-size: 17px;
+    width: 80px;
+    font-weight: 100;
+    margin-top: -14px;
+    display: inline-block;
+    cursor: pointer;
+}
+.brndr {
+    display: flex;
+}
+.own {
+    width: 40px;
+    margin-left: 30px;
+    height: 40px;
+    margin-top: 2px;
+}
+.name {
+    font-family: monospace;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 27px;
+    margin-top: 2px;
+}
+.owner {
+    display: flex;
+}
+.who {
+    font-family: monospace;
+    font-size: 17px;
+    font-weight: 500;
+    margin-top: -15px;
+    height: 10px;
+    margin-left: 30px;
+    color: #858585;
+}
+.phone {
+    width: 35px;
+    height: 35px;
+    margin-left: 100px;
+}
+.sms {
+    width: 35px;
+    height: 35px;
+    margin-left: 20px;
+}
+.lvng {
+    margin-left: 20px;
+    width: 90px;
+    height: 90px;
+}
+.bd {
+    margin-left: 20px;
+    width: 90px;
+    height: 90px;
+}
+.plus {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: 900;
+    margin-top: -63px;
+    margin-left: 40px;
+    position: absolute;
+}
+.bad {
+    margin-left: 20px;
+    border-radius: 10px;
+    width: 90px;
+    opacity: 0.7;
+    height: 90px;
+}
+.opac {
+    display: flex;
+    margin-left: 27px;
+}
+.glry {
+    font-family: Raleway;
+    font-weight: 500;
+    font-size: 27px;
+    margin-left: 27px;
+}
+.bda {
+    border-radius: 10px;
+    width: 90px;
+    height: 90px;
+}
+.map {
+    position: relative;
+}
+.mapp {
+    width: 450px;
+    margin-left: 21px;
+    border-radius: 15px;
+    margin-top: 35px;
+    height: 200px;
+    position: absolute;
+}
+.price {
+    color: #858585;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 40px;
+}
+.parsing {
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 40px;
+    font-family: Raleway;
+}
+.butn1 {
+    background: linear-gradient(180deg, #A0DAFB -22.93%, #0A8ED9 131.41%);
+    border-style: none;
+    width: 150px;
+    border-radius: 15px;
+    height: 50px;
+    color: #fff;
+    text-align: center;
+    position: absolute;
+    margin-top: 175px;
+    margin-left: 310px;
+}
